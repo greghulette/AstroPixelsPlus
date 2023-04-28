@@ -8,9 +8,9 @@
 
 // Support for RSeries Logic Engine FLD and/or RLD lights (requires FastLED library)
 // Define USE_RSERIES_FLD to enable support for RSeries FLD
-//#define USE_RSERIES_FLD
+#define USE_RSERIES_FLD
 // Define USE_RSERIES_RLD to enable support for RSeries RLD
-//#define USE_RSERIES_RLD
+#define USE_RSERIES_RLD
 // Define USE_RSERIES_RLD_CURVED to enable support for RSeries RLD curved (AUX5 becomes clock pin)
 //#define USE_RSERIES_RLD_CURVED
 
